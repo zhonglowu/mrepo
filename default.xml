@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote name="origin"
+    fetch="git@github.com:zhonglowu/"/>
+  <default remote="origin"
+    revision="refs/heads/master"
+    sync-j="4"/>
+  <project name="mini1" remote="origin" path="mini1"/>
+  <project name="mini2" remote="origin" path="mini2"/>
+</manifest>
