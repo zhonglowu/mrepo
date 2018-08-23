@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <remote name="origin"
-    fetch="git@github.com:zhonglowu/"/>
+    fetch="git@github.com:zhonglowu/mrepo/"/>
   <default remote="origin"
     revision="refs/heads/master"
     sync-j="4"/>
