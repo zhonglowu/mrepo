@@ -6,7 +6,7 @@
     revision="refs/heads/master"
     sync-j="4"/>
   <project name="zhonglowu/mini1" remote="origin" path="mini1">
-    <annotation name="git-lfs" value="true"/>         
+    <annotation name="git_lfs" value="true"/>         
   </project>
   <project name="zhonglowu/mini2" remote="origin" path="mini2"/>
 </manifest>
